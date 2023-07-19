@@ -1,0 +1,56 @@
+h1{
+    color: black;
+    text-align: center;
+}
+.forest{
+    height: 250px;
+    width: 500px;
+    image-resolution: 1080p ;
+    image-rendering: auto;
+    position: relative;
+    padding-left: 152px;
+}
+body{
+    background-color:burlywood;
+    font-size: medium;
+    text-align: justify;
+}
+h2{
+    color: brown;
+}
+.bullet{
+    color: blue;
+}
+.Rhinoceros{
+    color: palevioletred;
+}
+.beetle{
+    color: red;
+}
+hr{
+    text-decoration: dotted;
+    text-size-adjust: 20px;
+    color: black;
+}
+h3{
+    shape-image-threshold: inherit;
+}
+
+ a { 
+    text-decoration:none;
+    color: red;
+
+}
+
+.Ant{
+    position:relative;
+    padding-left: 180px;
+}
+.beetle{
+    position: relative;
+    padding-left: 180px;
+}
+.Titan{
+    position: relative;
+    padding-left: 180px;
+}
